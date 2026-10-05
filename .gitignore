@@ -1,0 +1,12 @@
+target/
+*.class
+*.log
+*.jar
+*.war
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+nbproject/
